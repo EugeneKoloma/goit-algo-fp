@@ -1,7 +1,10 @@
 [project]
 name = "goit-algo-fp"
 version = "0.1.0"
-description = "Add your description here"
+description = "Algorithms final project tasks implementation"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.7",
+    "networkx>=3.1"
+]
